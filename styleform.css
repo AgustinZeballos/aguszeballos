@@ -1,0 +1,17 @@
+.estiloForm {
+    background-color: blue;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+
+.titulo {
+    font-family: 'Courier New', Courier, monospace;         
+    font-size: xx-large;
+}
+
+.boton {
+    border-color: yellow;
+    border-radius: 100px;
+    
+}

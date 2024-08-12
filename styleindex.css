@@ -1,0 +1,15 @@
+/*
+    color-primario: #1ea025;
+    color-secundario: rgb(62, 187, 209);
+    color-terciario: yellow;
+    color-cuarto: blue;
+*/
+
+.claseNav {
+    color: #1ea025;
+    background-color: rgb(62, 187, 209);
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+} 
+
